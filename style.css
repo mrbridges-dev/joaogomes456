@@ -21,7 +21,9 @@ img{
 }
 
 .info{
-
+      div:last-child(){
+      float:rithg;
+      }
 }
 
 .card-body{
