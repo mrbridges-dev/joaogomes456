@@ -20,12 +20,6 @@ img{
       margin-left: 1rem;
 }
 
-.info{
-      div:last-child(){
-      float:rithg;
-      }
-}
-
 .card-body{
       border:white 1px solid;
       border-radius: 10px;
