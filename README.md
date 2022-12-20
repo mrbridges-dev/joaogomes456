@@ -6,7 +6,7 @@
 <body>
       <div class="card-body">
             <h1 class="titulo">My name is João Pontes and my nickname is "Mr.Bridges"!</h1>
-            <p class="sub">I'm studying FullStack Developer in Java, Angular, MySql and Ionic.</p>
+            <p class="sub">I'm FullStack Developer in Java, Angular, MySql and Ionic.</p>
             
 <div class="info">
 <div href="https://github.com/joaogomes456"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white"></div>
