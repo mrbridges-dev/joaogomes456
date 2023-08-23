@@ -4,7 +4,7 @@
       </head>
 <body>
       <div class="card-body">
-            <h1 class="titulo">My name is <a href="https://www.linkedin.com/in/jo%C3%A3o-pontes-284a3020a/" targe="_blank">João Pontes</a> and my nickname is "Mr.Bridges"!</h1>
+            <h1 class="titulo">My name is <a href="https://www.linkedin.com/in/jo%C3%A3o-pontes-284a3020a/" target="_blank">João Pontes</a> and my nickname is "Mr.Bridges"!</h1>
             <p class="sub">I'm FullStack Developer in Java, Angular, MySql and Ionic.</p>
               
 
